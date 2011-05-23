@@ -6,7 +6,9 @@ You can find each answers in their folders. For problem one and two, they'll jus
 
 Problem four contains a text file with a link to a youtube video I made to answer the question. Hopefully the video is enough to show how passionate I am about working with you guys!
 
-If there's any problems, contact me at athar@ucsd.edu.
+Also I've included a brief bio and a work history in the folder called Bio.
+
+If there's any problems, please contact me at athar@ucsd.edu.
 
 Thank you!
 Zack Thar
